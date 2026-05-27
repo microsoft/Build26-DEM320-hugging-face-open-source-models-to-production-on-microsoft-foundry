@@ -39,11 +39,11 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 # [Microsoft Build 2026](https://build.microsoft.com)
 
-## 🔥 BRKXXX: SESSION TITLE
+## 🔥 DEM320: Hugging Face open-source models to production on Microsoft Foundry
 
 ### Session Description
 
-*Add Session Description*
+Open-source models fuel modern AI, but running them in production is hard. In this lightning talk, Microsoft and Hugging Face demonstrate how to deploy and scale Hugging Face models using Foundry Managed Compute inside Azure AI Foundry. Through a fast, end-to-end demo, developers will see how to go from model discovery to production inference without managing GPUs, while gaining autoscaling, governance, and enterprise-grade performance.
 
 ### 🏫 Getting started in a guided session
 
