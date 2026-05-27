@@ -39,20 +39,13 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 # [Microsoft Build 2026](https://build.microsoft.com)
 
-## 🔥 BRKXXX: SESSION TITLE
+## 🔥 DEM320: Hugging Face open-source models to production on Microsoft Foundry
 
 ### Session Description
 
-*Add Session Description*
+Open-source models fuel modern AI, but running them in production is hard. In this lightning talk, Microsoft and Hugging Face demonstrate how to deploy and scale Hugging Face models using Foundry Managed Compute inside Azure AI Foundry. Through a fast, end-to-end demo, developers will see how to go from model discovery to production inference without managing GPUs, while gaining autoscaling, governance, and enterprise-grade performance.
 
-### 🏫 Getting started in a guided session
-
-To get started in a guided lab session:
-- <!-- step 1 -->
-- <!-- step 2 -->
-- <!-- step 3 -->
-
-### 🏠 Getting started in your own environment
+### 🚀 Getting started
 
 If you're following these steps at your own pace:
 - Clone this repository
@@ -61,15 +54,15 @@ If you're following these steps at your own pace:
 
 ### 🧠 Learning Outcomes
 
-By the end of this session, you will be able to:
+By the end of this demo, you will be able to:
 
-- <!-- outcome 1 -->
-- <!-- outcome 2 -->
-- <!-- outcome 3 -->
+- Discover and evaluate Hugging Face open-source models using the Azure AI Foundry model catalog.
+- Deploy a Hugging Face model to production using Foundry Managed Compute, without managing GPUs directly.
+- Understand how Azure AI Foundry provides autoscaling, governance, and enterprise-grade performance for open-source model inference.
 
 ### 💬 Keep Learning with Copilot
 
-Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in VS Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
+Try these prompts with GitHub Copilot to explore the topics from this demo. Open Copilot Chat in Visual Studio Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
 
 Use these as a starting point — or write your own!
 
@@ -79,20 +72,23 @@ Use these as a starting point — or write your own!
 
 ### 💻 Technologies Used
 
-1. <!-- technology 1 -->
-1. <!-- technology 2 -->
-1. <!-- technology 3 -->
+1. [Microsoft Foundry](https://learn.microsoft.com/azure/ai-foundry/what-is-foundry) — the unified Azure platform for enterprise AI operations, covering agents, 1,900+ models, SDKs, and the Foundry portal.
+1. [Hugging Face models in Microsoft Foundry](https://learn.microsoft.com/azure/foundry-classic/how-to/deploy-models-managed-hugging-face) — deploy any Hugging Face Hub model to a managed compute endpoint in Microsoft Foundry for scalable, secure, real-time inference.
+1. [Foundry Managed Compute](https://learn.microsoft.com/azure/foundry-classic/how-to/deploy-models-managed) — deploy and serve catalog models (including Hugging Face open-source models) using managed online endpoints with autoscaling and enterprise-grade performance.
 
 ### 📚 Resources and Next Steps
 
 | Resource | Description |
 |:---------|:------------|
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
+| [https://aka.ms/hf/docs/microsoft-azure](https://aka.ms/hf/docs/microsoft-azure) | Hugging Face documentation for deploying models on Microsoft Azure |
+| [https://aka.ms/hf/docs/microsoft-azure/one-click-deploy](https://aka.ms/hf/docs/microsoft-azure/one-click-deploy) | One-click deploy Hugging Face models to Microsoft Azure |
+| [https://aka.ms/hf/foundry-models](https://aka.ms/hf/foundry-models) | Hugging Face models available in Microsoft Foundry |
 
 
 ### 🌟 Microsoft Learn MCP Server
 
-The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's official documentation — grounded, up-to-date answers about the products and services covered in this session.
+The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's official documentation — grounded, up-to-date answers about the products and services covered in this demo.
 
 **VS Code** — One click installation: 
 
