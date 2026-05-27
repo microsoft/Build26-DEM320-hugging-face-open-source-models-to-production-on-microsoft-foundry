@@ -72,9 +72,9 @@ Use these as a starting point — or write your own!
 
 ### 💻 Technologies Used
 
-1. [Azure AI Foundry](https://learn.microsoft.com/azure/ai-foundry/what-is-azure-ai-foundry) — the unified platform for building, deploying, and managing AI applications and models.
-1. [Hugging Face model catalog in Azure AI Foundry](https://learn.microsoft.com/azure/ai-foundry/how-to/model-catalog-overview) — browse and deploy Hugging Face open-source models directly from the Azure AI Foundry model catalog.
-1. [Azure AI Foundry Managed Compute](https://learn.microsoft.com/azure/ai-foundry/concepts/deployments-overview) — deploy models to managed, auto-scaling endpoints without managing the underlying GPU infrastructure.
+1. [Microsoft Foundry](https://learn.microsoft.com/azure/ai-foundry/what-is-foundry) — the unified Azure platform for enterprise AI operations, covering agents, 1,900+ models, SDKs, and the Foundry portal.
+1. [Hugging Face models in Microsoft Foundry](https://learn.microsoft.com/azure/foundry-classic/how-to/deploy-models-managed-hugging-face) — deploy any Hugging Face Hub model to a managed compute endpoint in Microsoft Foundry for scalable, secure, real-time inference.
+1. [Foundry Managed Compute](https://learn.microsoft.com/azure/foundry-classic/how-to/deploy-models-managed) — deploy and serve catalog models (including Hugging Face open-source models) using managed online endpoints with autoscaling and enterprise-grade performance.
 
 ### 📚 Resources and Next Steps
 
