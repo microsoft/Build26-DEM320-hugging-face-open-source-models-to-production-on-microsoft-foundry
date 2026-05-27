@@ -56,9 +56,9 @@ If you're following these steps at your own pace:
 
 By the end of this demo, you will be able to:
 
-- <!-- outcome 1 -->
-- <!-- outcome 2 -->
-- <!-- outcome 3 -->
+- Discover and evaluate Hugging Face open-source models using the Azure AI Foundry model catalog.
+- Deploy a Hugging Face model to production using Foundry Managed Compute, without managing GPUs directly.
+- Understand how Azure AI Foundry provides autoscaling, governance, and enterprise-grade performance for open-source model inference.
 
 ### 💬 Keep Learning with Copilot
 
@@ -72,9 +72,9 @@ Use these as a starting point — or write your own!
 
 ### 💻 Technologies Used
 
-1. <!-- technology 1 -->
-1. <!-- technology 2 -->
-1. <!-- technology 3 -->
+1. [Azure AI Foundry](https://learn.microsoft.com/azure/ai-foundry/what-is-azure-ai-foundry) — the unified platform for building, deploying, and managing AI applications and models.
+1. [Hugging Face model catalog in Azure AI Foundry](https://learn.microsoft.com/azure/ai-foundry/how-to/model-catalog-overview) — browse and deploy Hugging Face open-source models directly from the Azure AI Foundry model catalog.
+1. [Azure AI Foundry Managed Compute](https://learn.microsoft.com/azure/ai-foundry/concepts/deployments-overview) — deploy models to managed, auto-scaling endpoints without managing the underlying GPU infrastructure.
 
 ### 📚 Resources and Next Steps
 
