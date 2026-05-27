@@ -81,6 +81,9 @@ Use these as a starting point — or write your own!
 | Resource | Description |
 |:---------|:------------|
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
+| [https://aka.ms/hf/docs/microsoft-azure](https://aka.ms/hf/docs/microsoft-azure) | Hugging Face documentation for deploying models on Microsoft Azure |
+| [https://aka.ms/hf/docs/microsoft-azure/one-click-deploy](https://aka.ms/hf/docs/microsoft-azure/one-click-deploy) | One-click deploy Hugging Face models to Microsoft Azure |
+| [https://aka.ms/hf/foundry-models](https://aka.ms/hf/foundry-models) | Hugging Face models available in Microsoft Foundry |
 
 
 ### 🌟 Microsoft Learn MCP Server
