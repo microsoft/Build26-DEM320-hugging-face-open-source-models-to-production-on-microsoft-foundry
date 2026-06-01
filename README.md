@@ -71,17 +71,22 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
 
 ## Content Owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="http://github.com/ositanachi">
+        <img src="https://github.com/ositanachi.png" width="100px;" alt="Osi Otugo"/><br />
+        <sub><b>Osi Otugo</b></sub></a><br />
+            <a href="https://github.com/ositanachi" title="talk">📢</a>
+    </td>
+    <td align="center"><a href="http://github.com/vaidya-s">
+        <img src="https://github.com/vaidya-s.png" width="100px;" alt="Vaidyaraman Sambasivam"/><br />
+        <sub><b>Vaidyaraman Sambasivam</b></sub></a><br />
+            <a href="https://github.com/vaidya-s" title="talk">📢</a>
+    </td>
+    <td align="center"><a href="http://github.com/jeffboudier">
+        <img src="https://github.com/jeffboudier.png" width="100px;" alt="Jeff Boudier"/><br />
+        <sub><b>Jeff Boudier</b></sub></a><br />
+            <a href="https://github.com/jeffboudier" title="talk">📢</a>
     </td>
 </tr></table>
 
